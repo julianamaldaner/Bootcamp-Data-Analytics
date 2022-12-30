@@ -2,6 +2,8 @@
 
 git checkout -b [nome da nova branch]
 
+OBS.: quando ela for criada você já entra automaticamente nela.
+
 ## Verificando as branchs existentes:
 
 git branch
